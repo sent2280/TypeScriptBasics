@@ -1,0 +1,16 @@
+{
+  "name": "learnig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc Examples\\Welcome.ts && node Examples\\Welcome.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulpclass": "^0.2.0",
+    "typescript": "^3.4.5"
+  }
+}
